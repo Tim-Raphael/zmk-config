@@ -161,7 +161,7 @@
             label = "Symbols";
             bindings = <
                         &kp EXCL          &kp AT             &kp HASH             &kp DOLLAR             &kp PERCENT                    &kp CARET    &kp AMPERSAND          &kp ASTERISK         &kp DQT            &kp APOSTROPHE
-                        &kp LT            &kp LBRC           &kp LPAR             &kp LBKT               &kp PIPE                       &kp UNDER    &kp RBKT               &kp RCTRL RPAR       &kp RBRC           &kp GT
+                        &kp LT            &kp LBRC           &kp LPAR             &kp LBKT               &kp PIPE                       &kp UNDER    &kp RBKT               &kp RPAR             &kp RBRC           &kp GT
             &trans      &kp GRAVE         &kp TILDE          &kp BACKSLASH        &trans                 &trans                         &kp MINUS    &kp PLUS               &kp ASTERISK         &trans             &kp EQUAL         &trans
                                                              &trans               &trans                 &trans                         &trans       &trans                 &trans
             >;
